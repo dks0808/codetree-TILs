@@ -1,2 +1,2 @@
-a =18
+a = int(input())
 print(a+2)
