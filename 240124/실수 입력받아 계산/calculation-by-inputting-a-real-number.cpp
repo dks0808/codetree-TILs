@@ -1,4 +1,5 @@
 #include <iostream>
+#include <iomanip>
 using namespace std;
 
 int main() {
@@ -6,8 +7,8 @@ int main() {
     cin >> a;
     cin >>b;
     float c = a + b;
-    cout.precision(3);
-    cout << showpoint << c<<endl;
+   
+    cout << fixed<< setprecision(2) << c <<endl;
 
 
     return 0;
