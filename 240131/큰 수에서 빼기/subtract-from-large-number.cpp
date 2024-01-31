@@ -7,7 +7,12 @@ int main() {
     {
         cout << a - b;
     }
-    cout << b - a;
+    else
+    {
+        cout << b - a;
+
+    }
+
     
     return 0;
 }
