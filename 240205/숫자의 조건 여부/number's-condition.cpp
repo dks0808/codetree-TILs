@@ -6,11 +6,11 @@ int main() {
     cin >>a ;
     if(-1000<=a<=1000)
     {
-        if(a>132)
+        if(a>112)
         {
             cout << 1;
         }
-        else if( a <= 132)
+        else if( a <= 112)
         {
             cout <<0;
         }
