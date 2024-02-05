@@ -6,9 +6,9 @@ int main() {
     cin >>a ;
     if(-1000<=a<=1000)
     {
-        if(a>=133)
+        if(a>132)
         {
-            cout <<1;
+            cout << 1;
         }
         else
         {
