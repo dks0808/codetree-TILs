@@ -13,7 +13,7 @@ int main() {
         }
         else
         {
-            cout << 80- inumber << "more score" <<endl;
+            cout << 80- inumber << " more score" <<endl;
         }
     }
     return 0;
