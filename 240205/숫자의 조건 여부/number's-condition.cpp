@@ -10,7 +10,7 @@ int main() {
         {
             cout << 1;
         }
-        else
+        else if( a <= 132)
         {
             cout <<0;
         }
