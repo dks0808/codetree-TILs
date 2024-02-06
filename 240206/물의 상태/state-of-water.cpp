@@ -9,9 +9,13 @@ int main() {
         cout << "ice";
 
     }
-    else
+    else if(temperature>=100)
     {
-        cout <<"water";
+        cout <<"vaper";
+    }
+    else 
+    {
+        cout << "water"
     }
     return 0;
 }
