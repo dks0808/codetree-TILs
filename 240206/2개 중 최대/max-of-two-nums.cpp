@@ -4,9 +4,9 @@ using namespace std;
 
 int main() {
     // 여기에 코드를 작성해주세요.
-    int a, b;
+    int a, b,c;
     cin >> a >>b;
-    b = a >100 ? a:b;
+    c = a>b ? a:b;
     cout << b;
     return 0;
 }
