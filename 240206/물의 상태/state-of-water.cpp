@@ -11,7 +11,7 @@ int main() {
     }
     else if(temperature>=100)
     {
-        cout <<"vaper";
+        cout <<"vapor";
     }
     else 
     {
