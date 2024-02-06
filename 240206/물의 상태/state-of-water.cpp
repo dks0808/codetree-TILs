@@ -15,7 +15,7 @@ int main() {
     }
     else 
     {
-        cout << "water"
+        cout << "water";
     }
     return 0;
 }
