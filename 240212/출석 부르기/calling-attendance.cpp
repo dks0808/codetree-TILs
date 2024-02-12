@@ -17,5 +17,9 @@ int main() {
     {
         cout << "Paul";
     }
+    else 
+    {
+        cout << "Vacancy";
+    }
     return 0;
 }
