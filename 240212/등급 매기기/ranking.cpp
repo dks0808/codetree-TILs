@@ -6,23 +6,23 @@ int main() {
     cin >> a;
     if(a >=90)
     {
-        cout << 'A'
+        cout << 'A';
     }
     if(a >=80)
     {
-        cout << 'B'
+        cout << 'B';
     }
     if(a >=70)
     {
-        cout << 'C'
+        cout << 'C';
     }
     if(a >=60)
     {
-        cout << 'D'
+        cout << 'D';
     }
     if(a < 60)
     {
-        cout << 'F'
+        cout << 'F';
     }
     return 0;
 }
