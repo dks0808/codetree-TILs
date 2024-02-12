@@ -8,19 +8,19 @@ int main() {
     {
         cout << 'A';
     }
-    if(a >=80)
+    else if(a >=80)
     {
         cout << 'B';
     }
-    if(a >=70)
+    else if(a >=70)
     {
         cout << 'C';
     }
-    if(a >=60)
+    else if(a >=60)
     {
         cout << 'D';
     }
-    if(a < 60)
+    else
     {
         cout << 'F';
     }
